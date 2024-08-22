@@ -1,0 +1,4 @@
+"adb"
+"C:\LDPlayer\LDPlayer9\ldconsole.exe"
+###
+0
